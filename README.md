@@ -1,5 +1,5 @@
 # jenkinswebhook
-learning about webhooks
+Learning about webhooks
 
-# this "change" will cause Jenkins to run
-go webhook go!
+## Webhooks
+Webhooks are created when a "change" is commited to a perticular branch (such as main).
